@@ -59,6 +59,6 @@ Novas análises e melhorias podem ser adicionadas futuramente.
 ---
 
 
-Autor:
+## Autor:
 José Vitor Gonçalves
 JoseVitor0 (Github)
