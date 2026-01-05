@@ -48,13 +48,15 @@ Essas informações podem auxiliar em estudos acadêmicos, políticas públicas 
 ---
 
 
-##📌 Observações
+## 📌 Observações
 
 Este projeto tem fins educacionais e analíticos;
 
 Os dados analisados são públicos e podem conter inconsistências oriundas da coleta original;
 
 Novas análises e melhorias podem ser adicionadas futuramente.
+
+---
 
 
 Autor:
